@@ -5,7 +5,7 @@
   
 
 ### Quelle: Deutscher Wetterdienst 
-<img titel="Logo des Deutschen Wetterdienstes" src="https://raw.githubusercontent.com/BenJ1337/Open-Data-Deutscher-Wetterdienst/master/DWD-Logo.png"  width="234" height="64">
+<img alt="Logo des Deutschen Wetterdienstes" src="https://raw.githubusercontent.com/BenJ1337/Open-Data-Deutscher-Wetterdienst/master/DWD-Logo.png"  width="234" height="64">
 
 
 ### Weitere Links
