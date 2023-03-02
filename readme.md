@@ -1,7 +1,10 @@
 ## Daten vom Open Data-Server des Deutschen Wetterdienstes (DWD)
 
 
-[Link zum Open-Data-Server des DWD](https://opendata.dwd.de/)
+- [Link zum Open-Data-Server des DWD](https://opendata.dwd.de/)
+- [Link zur Deutscher Wetterdienst: API](https://dwd.api.bund.dev/)
+- [Liste aller Wetterstationen (ohne Stationskennung aber mit sog. 'Stations_id')](https://www.dwd.de/DE/leistungen/klimadatendeutschland/stationsliste.html)
+- [Temperaturen des letzten halben Jahres](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/10_minutes/air_temperature/recent/)
   
 
 ### Quelle: Deutscher Wetterdienst 
