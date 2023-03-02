@@ -5,7 +5,8 @@
 - [Link zur Deutscher Wetterdienst: API](https://dwd.api.bund.dev/)
 - [Liste aller Wetterstationen (ohne Stationskennung aber mit sog. 'Stations_id')](https://www.dwd.de/DE/leistungen/klimadatendeutschland/stationsliste.html)
 - [Temperaturen des letzten halben Jahres](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/10_minutes/air_temperature/recent/)
-  
+- [CDC (Climate Data Center)](https://www.dwd.de/DE/klimaumwelt/cdc/cdc_node.html)
+- [Interaktiver Zugriff über das CDC-Portal](https://cdc.dwd.de/portal/)
 
 ### Quelle: Deutscher Wetterdienst 
 <img alt="Logo des Deutschen Wetterdienstes" src="https://raw.githubusercontent.com/BenJ1337/Open-Data-Deutscher-Wetterdienst/master/DWD-Logo.png"  width="234" height="64">
